@@ -1,7 +1,7 @@
 # ML-Fashion_MNIST
 
 # Title : fashion MNIST and scikit_learn
-
+<img src="https://user-images.githubusercontent.com/46181173/118445879-ee085e00-b729-11eb-97dd-aaed04cb5664.png" height="50%" width="50%"> <br>
 ## fashion MNIST 데이터 1000개만 가지고 학습, 평가(교차검중)함 : 아래 프로그램 참조
 
 내용 : <br>
@@ -26,9 +26,6 @@
 - 2차원 데이터를 1차원 데이터로 reshape (28x28 -> 1x784)
 
 <br>
-
-<img src="https://user-images.githubusercontent.com/46181173/118445879-ee085e00-b729-11eb-97dd-aaed04cb5664.png" height="50%" width="50%"> <br>
-<예시 : 추출한 1000개의 데이터 중 100개의 이미지> <br>
 
 ## SVM
 
