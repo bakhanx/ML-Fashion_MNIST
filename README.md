@@ -45,7 +45,7 @@
 - Default
 - Grid Search
 
-<img src="https://user-images.githubusercontent.com/46181173/118445481-74707000-b729-11eb-8838-2fdbeee98e56.png" width="50%>
+<img src="https://user-images.githubusercontent.com/46181173/118445481-74707000-b729-11eb-8838-2fdbeee98e56.png" width="50%">
 
 ## RandomForest
 
@@ -68,9 +68,9 @@ RandomForest의 성능이 가장 좋음
 
 ### Confusion Matrix <br>
 
-<img src="https://user-images.githubusercontent.com/46181173/118446333-7b4bb280-b72a-11eb-938e-ceb08d9c4c04.png" width="40%>
+<img src="https://user-images.githubusercontent.com/46181173/118446333-7b4bb280-b72a-11eb-938e-ceb08d9c4c04.png" width="40%">
 <img src="https://user-images.githubusercontent.com/46181173/118446235-5c4d2080-b72a-11eb-943b-24cc92d8920e.png" width="30%">  <br>
 
-<img src="https://user-images.githubusercontent.com/46181173/118446297-6f5ff080-b72a-11eb-9e71-1ee210c58c35.png" width="30> <br>
+<img src="https://user-images.githubusercontent.com/46181173/118446297-6f5ff080-b72a-11eb-9e71-1ee210c58c35.png" width="30%"> <br>
 Pullover > Coat 오인식 20개 <br>
 Shirt > Pullover 오인식 19개
