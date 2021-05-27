@@ -1,6 +1,6 @@
 # ML-Fashion_MNIST
 
-# Title : fashion MNIST and scikit_learn
+# Title : Fashion MNIST and Scikit_learn
 <img src="https://user-images.githubusercontent.com/46181173/118445879-ee085e00-b729-11eb-97dd-aaed04cb5664.png" width="30%"> <br>
 ## fashion MNIST 데이터 1000개만 가지고 학습, 평가(교차검중)함 : 아래 프로그램 참조
 
